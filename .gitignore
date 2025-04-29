@@ -1,0 +1,12 @@
+# Ignore .mp4 files
+*.mp4
+
+# Ignore Windows ADS metadata files
+*:Zone.Identifier
+
+# Autres fichiers que tu pourrais vouloir ignorer
+*.pyc
+*.pid
+__pycache__/
+mlruns/
+venv/
