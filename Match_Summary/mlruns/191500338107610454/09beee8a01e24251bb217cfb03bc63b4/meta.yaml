@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shams/Projet_Pi/Match_Summary/mlruns/191500338107610454/09beee8a01e24251bb217cfb03bc63b4/artifacts
+end_time: 1745878741538
+entry_point_name: ''
+experiment_id: '191500338107610454'
+lifecycle_stage: active
+run_id: 09beee8a01e24251bb217cfb03bc63b4
+run_name: charming-donkey-370
+run_uuid: 09beee8a01e24251bb217cfb03bc63b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745878741531
+status: 4
+tags: []
+user_id: shams
