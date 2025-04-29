@@ -1,0 +1,10 @@
+{
+  "feature_importance": {
+    "FIFA rating": 0.012990500830620618,
+    "Injury": 0.014856858118655324,
+    "Season": 0.010863031985630506,
+    "Missed_Matches": 0.0010396380006288278,
+    "severity_level": 0.9228124545327683,
+    "Career_Duration_Before_Injury": 0.03743751653169642
+  }
+}

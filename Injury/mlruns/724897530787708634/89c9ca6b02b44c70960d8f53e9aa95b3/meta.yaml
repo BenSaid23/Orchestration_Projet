@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/724897530787708634/89c9ca6b02b44c70960d8f53e9aa95b3/artifacts
+end_time: 1745863811414
+entry_point_name: ''
+experiment_id: '724897530787708634'
+lifecycle_stage: active
+run_id: 89c9ca6b02b44c70960d8f53e9aa95b3
+run_name: rogue-fawn-2
+run_uuid: 89c9ca6b02b44c70960d8f53e9aa95b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745863807410
+status: 3
+tags: []
+user_id: shams

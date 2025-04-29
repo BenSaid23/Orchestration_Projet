@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/724897530787708634/afea022f036c4fbf8f5cc443fafb46ad/artifacts
+end_time: 1745866743285
+entry_point_name: ''
+experiment_id: '724897530787708634'
+lifecycle_stage: active
+run_id: afea022f036c4fbf8f5cc443fafb46ad
+run_name: illustrious-duck-708
+run_uuid: afea022f036c4fbf8f5cc443fafb46ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745866739927
+status: 3
+tags: []
+user_id: shams

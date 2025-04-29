@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/724897530787708634/5224a27329ef44ef855cbea1b74106c0/artifacts
+end_time: 1745866997275
+entry_point_name: ''
+experiment_id: '724897530787708634'
+lifecycle_stage: active
+run_id: 5224a27329ef44ef855cbea1b74106c0
+run_name: unruly-wasp-213
+run_uuid: 5224a27329ef44ef855cbea1b74106c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745866997028
+status: 4
+tags: []
+user_id: shams

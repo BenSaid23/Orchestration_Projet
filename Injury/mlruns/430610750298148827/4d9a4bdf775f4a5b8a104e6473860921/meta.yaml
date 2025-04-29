@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/430610750298148827/4d9a4bdf775f4a5b8a104e6473860921/artifacts
+end_time: 1745850573002
+entry_point_name: ''
+experiment_id: '430610750298148827'
+lifecycle_stage: active
+run_id: 4d9a4bdf775f4a5b8a104e6473860921
+run_name: bustling-kit-591
+run_uuid: 4d9a4bdf775f4a5b8a104e6473860921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850572974
+status: 4
+tags: []
+user_id: shams

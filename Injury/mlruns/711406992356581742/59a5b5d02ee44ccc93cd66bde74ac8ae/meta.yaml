@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/711406992356581742/59a5b5d02ee44ccc93cd66bde74ac8ae/artifacts
+end_time: 1745849734147
+entry_point_name: ''
+experiment_id: '711406992356581742'
+lifecycle_stage: active
+run_id: 59a5b5d02ee44ccc93cd66bde74ac8ae
+run_name: caring-sheep-854
+run_uuid: 59a5b5d02ee44ccc93cd66bde74ac8ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745849730951
+status: 4
+tags: []
+user_id: shams

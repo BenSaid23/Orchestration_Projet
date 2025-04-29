@@ -1,0 +1,10 @@
+{
+  "feature_importance": {
+    "FIFA rating": 0.09151450530563034,
+    "Age": 0.24856614736349872,
+    "Position": 0.18606431106798493,
+    "Average_Before_Injury_Player_Rating": 0.17623206942382402,
+    "Missed_Matches": 0.024509223025173565,
+    "severity_level": 0.27311374381388837
+  }
+}

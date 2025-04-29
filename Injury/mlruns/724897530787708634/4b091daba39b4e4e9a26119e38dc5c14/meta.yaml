@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/724897530787708634/4b091daba39b4e4e9a26119e38dc5c14/artifacts
+end_time: 1745866520579
+entry_point_name: ''
+experiment_id: '724897530787708634'
+lifecycle_stage: active
+run_id: 4b091daba39b4e4e9a26119e38dc5c14
+run_name: sneaky-elk-267
+run_uuid: 4b091daba39b4e4e9a26119e38dc5c14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745866517225
+status: 3
+tags: []
+user_id: shams

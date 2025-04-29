@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/430610750298148827
+creation_time: 1745850366977
+experiment_id: '430610750298148827'
+last_update_time: 1745850366977
+lifecycle_stage: active
+name: Player_Injury_Duration_Prediction

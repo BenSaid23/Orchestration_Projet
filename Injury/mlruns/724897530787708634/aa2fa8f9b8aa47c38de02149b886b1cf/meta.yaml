@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/724897530787708634/aa2fa8f9b8aa47c38de02149b886b1cf/artifacts
+end_time: 1745867039140
+entry_point_name: ''
+experiment_id: '724897530787708634'
+lifecycle_stage: active
+run_id: aa2fa8f9b8aa47c38de02149b886b1cf
+run_name: carefree-sloth-278
+run_uuid: aa2fa8f9b8aa47c38de02149b886b1cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745867035988
+status: 3
+tags: []
+user_id: shams

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827606136275466230/0877cf28c1a042da87f912f6610c9e27/artifacts
+deleted_time: 1745863563131
+end_time: 1745846884747
+entry_point_name: ''
+experiment_id: '827606136275466230'
+lifecycle_stage: deleted
+run_id: 0877cf28c1a042da87f912f6610c9e27
+run_name: loud-wasp-741
+run_uuid: 0877cf28c1a042da87f912f6610c9e27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745846884723
+status: 4
+tags: []
+user_id: shams

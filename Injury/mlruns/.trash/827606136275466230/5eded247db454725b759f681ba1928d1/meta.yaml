@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827606136275466230/5eded247db454725b759f681ba1928d1/artifacts
+deleted_time: 1745863563131
+end_time: 1745847210718
+entry_point_name: ''
+experiment_id: '827606136275466230'
+lifecycle_stage: deleted
+run_id: 5eded247db454725b759f681ba1928d1
+run_name: delightful-whale-34
+run_uuid: 5eded247db454725b759f681ba1928d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745847210675
+status: 4
+tags: []
+user_id: shams

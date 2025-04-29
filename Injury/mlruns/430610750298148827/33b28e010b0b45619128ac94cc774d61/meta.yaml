@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/430610750298148827/33b28e010b0b45619128ac94cc774d61/artifacts
+end_time: 1745851836616
+entry_point_name: ''
+experiment_id: '430610750298148827'
+lifecycle_stage: active
+run_id: 33b28e010b0b45619128ac94cc774d61
+run_name: agreeable-goose-501
+run_uuid: 33b28e010b0b45619128ac94cc774d61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745851836553
+status: 4
+tags: []
+user_id: shams

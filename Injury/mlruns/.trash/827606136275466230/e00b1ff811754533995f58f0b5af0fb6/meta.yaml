@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827606136275466230/e00b1ff811754533995f58f0b5af0fb6/artifacts
+deleted_time: 1745863563131
+end_time: 1745846836883
+entry_point_name: ''
+experiment_id: '827606136275466230'
+lifecycle_stage: deleted
+run_id: e00b1ff811754533995f58f0b5af0fb6
+run_name: sneaky-mouse-924
+run_uuid: e00b1ff811754533995f58f0b5af0fb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745846836850
+status: 4
+tags: []
+user_id: shams

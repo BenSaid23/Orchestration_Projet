@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/724897530787708634/a5b954e578f24f46a491f9e4752e68cf/artifacts
+end_time: 1745866135932
+entry_point_name: ''
+experiment_id: '724897530787708634'
+lifecycle_stage: active
+run_id: a5b954e578f24f46a491f9e4752e68cf
+run_name: charming-donkey-912
+run_uuid: a5b954e578f24f46a491f9e4752e68cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745866132302
+status: 3
+tags: []
+user_id: shams

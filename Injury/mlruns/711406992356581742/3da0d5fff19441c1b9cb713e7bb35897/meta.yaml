@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/711406992356581742/3da0d5fff19441c1b9cb713e7bb35897/artifacts
+end_time: 1745849782864
+entry_point_name: ''
+experiment_id: '711406992356581742'
+lifecycle_stage: active
+run_id: 3da0d5fff19441c1b9cb713e7bb35897
+run_name: sneaky-chimp-44
+run_uuid: 3da0d5fff19441c1b9cb713e7bb35897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745849779989
+status: 3
+tags: []
+user_id: shams
